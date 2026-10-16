@@ -1,0 +1,38 @@
+{
+  "_status": "PROPOSED: Claude's defaults (2026-10-10) for Luke's /start small|medium|large (D-047). Luke tunes any number here.",
+  "small": {
+    "label": "Small",
+    "about": "An afternoon to a few evenings: a site update, a room, a script.",
+    "rounds": 1,
+    "questions": 3,
+    "lenses": ["L1", "L18", "L10", "L17"],
+    "models": {"ask": "haiku", "plan": "sonnet"},
+    "effort": {"ask": "low", "plan": "low"},
+    "thinking": {"ask": false, "plan": false},
+    "context_chars": 1500,
+    "length_class": "small",
+    "init_tier": "immediate",
+    "plan_steps": 6
+  },
+  "medium": {
+    "label": "Medium",
+    "about": "A few weeks of evenings: a feature, a course project, a move.",
+    "rounds": 2,
+    "questions": 4,
+    "lenses": ["L1", "L18", "L9", "L10", "L13", "L14", "L15", "L17", "L6"],
+    "models": {"ask": "sonnet", "plan": "sonnet"},
+    "effort": {"ask": "low", "plan": "low"},
+    "thinking": {"ask": false, "plan": true},
+    "context_chars": 3000,
+    "length_class": "medium",
+    "init_tier": "immediate",
+    "plan_steps": 12
+  },
+  "large": {
+    "label": "Large",
+    "about": "A semester or a thesis chapter: the full gate with SE documents.",
+    "handoff": "/elicit long",
+    "length_class": "large",
+    "init_tier": "long"
+  }
+}

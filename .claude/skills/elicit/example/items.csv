@@ -1,0 +1,9 @@
+id,label,hours,requires,must,time_saved,privacy,learning
+E-001,Write the README goal line,1,,yes,4,0,1
+E-002,Template folder for new projects,4,E-001,,8,0,3
+E-003,Pre-push privacy scan,3,,yes,1,10,2
+E-004,Term list per project,1,E-003,,1,7,1
+E-005,Install record,2,E-002,,5,0,2
+E-006,Stale-copy diff,5,E-005,,4,0,4
+E-007,Feature explainer page,6,,,2,0,9
+E-008,Scheduled weekly check,2,E-005,,3,1,5

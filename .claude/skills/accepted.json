@@ -1,0 +1,52 @@
+{
+  "closeout": {
+    "by": "Luke, explain-back waived 2026-10-09 (D-045)",
+    "date": "2026-10-09",
+    "sha256": "7c89c5597d8b4b0beed5343bda8bd2104a4f4f094c284179b6d60f66f9dcc5a7"
+  },
+  "elicit": {
+    "by": "Luke, explain-back waived 2026-10-09 (D-045)",
+    "date": "2026-10-09",
+    "sha256": "ae2c54bb6041a78efe6726d7dc7f3e5f4775ce4ef4cf4a5c2fc4973ece62d4de"
+  },
+  "healthcheck": {
+    "by": "Luke, explain-back waived 2026-10-09 (D-045)",
+    "date": "2026-10-09",
+    "sha256": "bc63df3903bf35b9bcba1b4817da4a7b88c1846f448f1b3080cdb1ecf0819222"
+  },
+  "initialize": {
+    "by": "Luke, explain-back waived 2026-10-09 (D-045)",
+    "date": "2026-10-09",
+    "sha256": "f7ee737ba0caac5d720cfbc87ff0b632da3651ada7203daffd12d1094599d1b1"
+  },
+  "privacy": {
+    "by": "Luke, explain-back waived 2026-10-09 (D-045)",
+    "date": "2026-10-09",
+    "sha256": "718788f2b57dc68e9380d0abb7053077a756b9d88e528f6d7adc4958ceceb29a"
+  },
+  "se-audit": {
+    "by": "Luke, explain-back answered 2026-10-08 (review packet), unchanged since",
+    "date": "2026-10-08",
+    "sha256": "0c8a9b62ba53f7816dbf15d78cd9ff56cbd0114806737b08dcbaead3172209e3"
+  },
+  "selftest": {
+    "by": "Luke, explain-back waived 2026-10-09 (D-045)",
+    "date": "2026-10-09",
+    "sha256": "5c09d25759fba3d96d2054dfd2595fcf49739588659834d857c9c683bf7585c2"
+  },
+  "start": {
+    "by": "Luke, accepted on review 2026-10-10 (D-057), explain-back not answered",
+    "date": "2026-10-10",
+    "sha256": "955f9ea22d03298439d3a81acf300d82ac87707730f97634a5c7519944d5d00f"
+  },
+  "timeplan": {
+    "by": "Luke, explain-back answered 2026-10-08 (review packet), unchanged since",
+    "date": "2026-10-08",
+    "sha256": "bccbdef035dd2f14de136514390e5fd8dfce10ec0d385c7176b1d7dbdce7f362"
+  },
+  "warden": {
+    "by": "Luke, explain-back waived 2026-10-09 (D-045)",
+    "date": "2026-10-09",
+    "sha256": "bd3e935cc299b948428c42242a7ac550aefb0821b3ad8021c48f6626b6525d78"
+  }
+}
