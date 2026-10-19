@@ -8,7 +8,7 @@ Replace <the deliverable> and any "it" with the deliverable's name. When several
 
 | ID | Lens | Source | Immediate tier? | Open question | Follow-ups |
 |---|---|---|---|---|---|
-| L1 | Mission deficiency | CNS | yes | What goes wrong today, or what can't you do, that this project fixes? | When did you last hit it? What happened? |
+| L1 | Mission deficiency | CNS | yes | What goes wrong today, or what can't you do, that this project fixes? | When did you last hit it? What happened? What happens if this never gets done? |
 | L2 | Enhancements to what exists | CNS | | What do you already have that does part of this? | What's missing from it? Why not just extend it? |
 | L3 | Interoperability | CNS | | What other tools, repos, people or services does this have to work with? | What breaks if one of them changes? |
 | L4 | Legacy interfaces | CNS | | What existing files, formats or habits have to keep working unchanged? | Which of those could you give up? |

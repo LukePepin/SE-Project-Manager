@@ -6,7 +6,7 @@ argument-hint: "[immediate|short|long] [project folder, defaults to the current 
 
 # Elicit: get the project out of Luke's head
 
-**Status: ACCEPTED** (Luke waived the follow-up explain-back, 2026-10-09, D-045: "skip the explain-back"). Its content is pinned; any later edit needs Luke's approval again (D-044). AI-drafted by Claude on 2026-10-08 from Luke's direction (Games-People-Play D-010 to D-013), then revised the same day after a scripted scratch test and the first real run.
+**Status: ACCEPTED** (edited 2026-10-18 for D-063, the 'what happens if it never gets done?' pushback; Luke approved the edit and waived the explain-back, 2026-10-18, D-065. Before that: Luke waived the follow-up explain-back, 2026-10-09, D-045: "skip the explain-back"). Its content is pinned; any later edit needs Luke's approval again (D-044). AI-drafted by Claude on 2026-10-08 from Luke's direction (Games-People-Play D-010 to D-013), then revised the same day after a scripted scratch test and the first real run.
 
 Target: `$ARGUMENTS`. The first word is the tier (`immediate`, `short` or `long`). If it is missing, ask for it. The rest is the project folder. The default is the current working directory.
 

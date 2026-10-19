@@ -12,7 +12,7 @@ Rules:
 7. Set "done" to true when every lens in the list is covered by a stated item, and return no questions.
 
 Lenses:
-L1 the problem: what goes wrong today that this fixes.
+L1 the problem: what goes wrong today that this fixes, and what happens if it never gets done.
 L18 success: how Luke would know it worked, the "done when".
 L9 test: what would convince Luke it works, or show it's broken.
 L10 cost: how many hours, by when, and what it competes with.

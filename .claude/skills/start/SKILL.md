@@ -6,7 +6,7 @@ argument-hint: "[small|medium|large] [project folder or name] [--kind code|house
 
 # Start: from brain dump to plan in three stops
 
-**Status: ACCEPTED** (Luke reviewed and accepted it, 2026-10-10, D-057: "I reviewed it ... I accept it install outside this repo"; the explain-back below was not answered). AI-drafted by Claude on 2026-10-10 from Luke's direction, D-047 to D-050. The review is `docs/se/REVIEW_2026-10-10_start.md`.
+**Status: ACCEPTED** (edited 2026-10-18 for D-063, the 'what happens if it never gets done?' pushback; Luke approved the edit and waived the explain-back, 2026-10-18, D-065. Before that: Luke reviewed and accepted it, 2026-10-10, D-057: "I reviewed it ... I accept it install outside this repo"; the explain-back below was not answered). AI-drafted by Claude on 2026-10-10 from Luke's direction, D-047 to D-050. The review is `docs/se/REVIEW_2026-10-10_start.md`.
 
 Luke's direction (D-047, 10/10): "/start [tier] small/medium/large which updates the numbers of rounds and questions", "limit token usage", "15min is perfect". Most of Luke's projects are small or medium. The full gate stays for large ones.
 

@@ -6,7 +6,7 @@ argument-hint: "[elicitation folder, defaults to the newest docs/se/elicitation/
 
 # Warden: is this project worth starting?
 
-**Status: ACCEPTED** (Luke waived the follow-up explain-back, 2026-10-09, D-045: "skip the explain-back"). Its content is pinned; any later edit needs Luke's approval again (D-044). AI-drafted by Claude on 2026-10-08 from Luke's direction (Games-People-Play D-015, D-022; WARD-01 to WARD-04).
+**Status: ACCEPTED** (edited 2026-10-18 for D-063, the 'what happens if it never gets done?' pushback; Luke approved the edit and waived the explain-back, 2026-10-18, D-065. Before that: Luke waived the follow-up explain-back, 2026-10-09, D-045: "skip the explain-back"). Its content is pinned; any later edit needs Luke's approval again (D-044). AI-drafted by Claude on 2026-10-08 from Luke's direction (Games-People-Play D-015, D-022; WARD-01 to WARD-04).
 
 Target: `$ARGUMENTS`, an elicitation folder written by `/elicit`. The default is the newest `docs/se/elicitation/<date>/` in the current project.
 
@@ -33,6 +33,7 @@ The checks only see whether the record has the right kinds of items. Judgment go
 | A key claim in `cns.md` rests only on Claude's inferences | shrink, until Luke confirms it |
 | The documents promise more than the budget can deliver or verify (the 10/8 verdict on this project) | shrink |
 | A cheaper alternative in the record does most of it | shrink or redirect |
+| Nothing would change for Luke or anyone else if it never got done: no definite benefit to anyone's progress (D-063). Learning counts only when Luke names it as the reason | no-go, or shrink to the learning Luke named |
 
 ## What the warden never does (Luke, 10/8)
 
@@ -50,7 +51,7 @@ The checks only see whether the record has the right kinds of items. Judgment go
    Exit code 0 is go, 1 shrink, 2 no-go. Read `warden_checks.md`.
 2. **Read the record:** `cns.md`, `items.md`, `weights.md`, and `prioritization.md` if present.
 3. **Judge what the checks can't see:**
-   - **Worth its time** (E-010 in Games-People-Play): do the measures and the Musts justify the hours? Is there a cheaper alternative in the record that does most of it?
+   - **Worth its time** (E-010 in Games-People-Play): do the measures and the Musts justify the hours? Is there a cheaper alternative in the record that does most of it? What happens if it never gets done? Luke's deep-work hours are expensive: when the verdict could go either way, pick the stricter one (D-063).
    - **Truth** (E-011): does any claim in `cns.md` rest only on inferred items, or go beyond what Luke said?
    - **Bad goal:** a goal that is really a solution ("build a dashboard") with no deficiency behind it, a goal nobody would notice missing, or two projects in one.
    - **Direction** (E-074): if a better direction is visible, pose it.

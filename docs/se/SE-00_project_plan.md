@@ -265,6 +265,9 @@ R8 (the dashboard's teaching text goes stale) was retired by D-021.
 | D-060 | 10/10 | **Every deferred requirement dropped:** "drop". All 20 `DEFERRED` rows in SE-03 are `DROPPED (D-060)`. | Luke, 10/10 (`/closeout`) | decided |
 | D-061 | 10/10 | **Hours stay out of the time equation:** "just a". The 4 hours are recorded in the closeout and here only; the 31-hour figure was never a time-equation suggestion. | Luke, 10/10 (`/closeout`) | decided |
 | D-062 | 10/10 | **Closeout moved into SE-00, git tag `closeout-2026-10-10` created, `/selftest` taken:** "sure", "sure", "yes". | Luke, 10/10 (`/closeout`) | decided |
+| D-063 | 10/18 | **Tougher pushback at the gate:** "apply light changes, it could have only learning as a reason but I just want to see the tools be a little tougher on push back and for you to resolve the note right away". The `/start`, warden and `/elicit` edits are listed in [CLOSEOUT_2026-10-18_pi-cluster_openvr.md](CLOSEOUT_2026-10-18_pi-cluster_openvr.md). | Luke, 10/18 (chat) | decided as direction; the wording of the edits is Claude's, approved by D-065 |
+| D-064 | 10/18 | **Pi-Cluster and OpenVR-Assembly-Assist closed and scrapped:** "Remove the Pi-Cluster and OpenVR tasks from the GPG completely, the projects are scraped". Both folders went to the Trash, and Luke said "Trash empty". The answers are in [CLOSEOUT_2026-10-18_pi-cluster_openvr.md](CLOSEOUT_2026-10-18_pi-cluster_openvr.md). | Luke, 10/18 (chat) | decided |
+| D-065 | 10/18 | **The D-063 edits to `/start`, the warden and `/elicit` are accepted, explain-back waived:** "I approve the start, warden and elicit edits and waive the explain-back; re-accept them." All three are re-pinned in `.claude/skills/accepted.json`. | Luke, 10/18 (chat) | decided |
 
 ## Open decisions
 

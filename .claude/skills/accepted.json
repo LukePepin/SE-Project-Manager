@@ -5,9 +5,9 @@
     "sha256": "7c89c5597d8b4b0beed5343bda8bd2104a4f4f094c284179b6d60f66f9dcc5a7"
   },
   "elicit": {
-    "by": "Luke, explain-back waived 2026-10-09 (D-045)",
-    "date": "2026-10-09",
-    "sha256": "ae2c54bb6041a78efe6726d7dc7f3e5f4775ce4ef4cf4a5c2fc4973ece62d4de"
+    "by": "Luke, edit approved and explain-back waived 2026-10-18 (D-065)",
+    "date": "2026-10-18",
+    "sha256": "16067c06d0237e8f68d507013b0cd1e22b56b21bf1601e97580803adccc4d59b"
   },
   "healthcheck": {
     "by": "Luke, explain-back waived 2026-10-09 (D-045)",
@@ -35,9 +35,9 @@
     "sha256": "5c09d25759fba3d96d2054dfd2595fcf49739588659834d857c9c683bf7585c2"
   },
   "start": {
-    "by": "Luke, accepted on review 2026-10-10 (D-057), explain-back not answered",
-    "date": "2026-10-10",
-    "sha256": "955f9ea22d03298439d3a81acf300d82ac87707730f97634a5c7519944d5d00f"
+    "by": "Luke, edit approved and explain-back waived 2026-10-18 (D-065)",
+    "date": "2026-10-18",
+    "sha256": "719d0c11a078256f69d73c7d9e0d5ce1f25397955a156c195412283b3d7a5815"
   },
   "timeplan": {
     "by": "Luke, explain-back answered 2026-10-08 (review packet), unchanged since",
@@ -45,8 +45,8 @@
     "sha256": "bccbdef035dd2f14de136514390e5fd8dfce10ec0d385c7176b1d7dbdce7f362"
   },
   "warden": {
-    "by": "Luke, explain-back waived 2026-10-09 (D-045)",
-    "date": "2026-10-09",
-    "sha256": "bd3e935cc299b948428c42242a7ac550aefb0821b3ad8021c48f6626b6525d78"
+    "by": "Luke, edit approved and explain-back waived 2026-10-18 (D-065)",
+    "date": "2026-10-18",
+    "sha256": "b714e27ad5755f196637c4d32369fa03beca96f8f647b78fb4aa1b37349c8fe0"
   }
 }
